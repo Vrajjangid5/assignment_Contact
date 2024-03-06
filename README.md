@@ -4,8 +4,8 @@ form send the data to the google sheet and google sheet store the data.
 this is done by the using of google sheet api.
 
 # Project setup instructions.
-  include all the React libraries using :-
-    npx create-react-app my-app
+  include all the React libraries using :-</br>
+    npx create-react-app my-app</br>
     cd my-app
   run the project:-
     npm start
